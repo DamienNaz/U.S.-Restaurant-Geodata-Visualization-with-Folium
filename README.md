@@ -7,14 +7,13 @@ This project visualizes the geospatial data of U.S. restaurants using **Folium**
 - **Interactive Map**: Displays the geographical location of various restaurants across the U.S.
 - **Custom Markers**: Uses icons and popups to represent different restaurant chains like McDonald's, Taco Bell, and Pizza Hut.
 - **Dynamic Visualization**: Provides an engaging, zoomable map to explore restaurant locations interactively.
+![Restaurant Map](screenshot.png)
 
 ## Technologies Used
 
 - **Python**: The primary programming language for data processing and visualization.
 - **Folium**: A Python wrapper for Leaflet.js, used to create interactive maps.
 - **Pandas**: For handling and manipulating the restaurant data in a structured format.
-
-![Restaurant Map](screenshot.png)
 
 ## Dataset & Installation
 
