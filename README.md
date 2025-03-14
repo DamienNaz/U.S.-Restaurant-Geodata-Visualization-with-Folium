@@ -14,9 +14,14 @@ This project visualizes the geospatial data of U.S. restaurants using **Folium**
 - **Folium**: A Python wrapper for Leaflet.js, used to create interactive maps.
 - **Pandas**: For handling and manipulating the restaurant data in a structured format.
 
-## Installation
+## Dataset & Installation
 
-1. Clone the repository:
+1. Download Datast:
+
+   ```bash
+   Kaggle: https://www.kaggle.com/datasets/kwxdata/380k-restaurants-mostly-usa-based
+
+2. Clone the repository:
 
    ```bash
    git clone https://github.com/DamienNaz/repositoryname.git
