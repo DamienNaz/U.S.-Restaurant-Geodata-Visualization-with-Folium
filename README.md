@@ -14,6 +14,8 @@ This project visualizes the geospatial data of U.S. restaurants using **Folium**
 - **Folium**: A Python wrapper for Leaflet.js, used to create interactive maps.
 - **Pandas**: For handling and manipulating the restaurant data in a structured format.
 
+![Restaurant Map](screenshot.png)
+
 ## Dataset & Installation
 
 1. Download Datast:
